@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class GameMain : MonoBehaviour {
 	public GameObject _poolManagerGameObject;
 	public GameObject _scorePanel;
-	private Text _scoreText;
+	Text _scoreText;
 
 	public GameObject _timePanel;
 	Text _timeText;
